@@ -4,6 +4,10 @@ This simplistic exercise exhibits the power of adjusting several differing varia
 
 This project gave me valuable practice with mathmematic equations in JavaScript and understanding the way they can be applied to basic events and functions to create something unique.
 
+## Mouse in the middle of the text and the right side of the screen:
+
+![Mouse-right](https://i.imgur.com/sxPJ1qR.png?1 'Mouse-right')
+
 ### Credits
 
 This project was created with help from Wes Bos, whose website can be found [here](https://wesbos.com/).

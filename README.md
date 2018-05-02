@@ -4,7 +4,7 @@ This simplistic exercise exhibits the power of adjusting several differing varia
 
 This project gave me valuable practice with mathmematic equations in JavaScript and understanding the way they can be applied to basic events and functions to create something unique.
 
-## Mouse set to the right:
+## Cursor set to the right:
 
 ![Mouse-right](https://i.imgur.com/sxPJ1qR.png?1 'Mouse-right')
 
